@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: bounce back
+title: the bounce back
 subtitle: And if she's got what it takes, she'll bounce back.
 description: 从programmer到lawyer
 author: 郑华
@@ -80,5 +80,7 @@ deploy:
   type: git
   # https://github.com/zhenghua75/zhenghua75.github.io.git
   # git@github.com:zhenghua/github.io.git
-  repo: https://github.com/zhenghua75/zhenghua75.github.io.git
+  repo: 
+    github: https://github.com/zhenghua75/zhenghua75.github.io.git
+    coding: https://git.coding.net/zhenghua/zhenghua.coding.me.git
   branch: master
