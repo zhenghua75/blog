@@ -11,7 +11,7 @@ categories: 名人
 ![阿尔弗雷德·阿德勒](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=fdde4a9f75c6a7efad2ba0749c93c434/aa64034f78f0f736b50ca3410955b319eac413fb.jpg)
 
 [个体心理学派创始人](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E9%98%BF%E5%BE%B7%E5%8B%92)，跟随弗洛伊德学习了九年之久，因为弗洛伊德过分强调性冲动的影响，和阿德勒的想法起了冲突，于是脱离了精神分析学派，开始发展自己的个人心理学。成为同弗洛伊德、荣格等齐名的重要心理学家，为心理学的三巨头。
-
+<!-- more -->
 ## 作品年表
 
 阿德勒最重要的著作是1927年出版的《个体心理学的实践与理论》与《理解人性》。

@@ -15,7 +15,7 @@ tags:
 操作系统：macOS Sierra 版本10.12.6
 
 python：python3.6
-
+<!-- more -->
 ##### 安装
 
 从python.org下载python3.6安装文件安装

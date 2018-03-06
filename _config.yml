@@ -77,10 +77,21 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  - type: git
   # https://github.com/zhenghua75/zhenghua75.github.io.git
   # git@github.com:zhenghua/github.io.git
-  repo: 
-    github: https://github.com/zhenghua75/zhenghua75.github.io.git
-    coding: https://git.coding.net/zhenghua/zhenghua.coding.me.git
-  branch: master
+    repo: 
+      github: https://github.com/zhenghua75/zhenghua75.github.io.git
+      coding: https://git.coding.net/zhenghua/zhenghua.coding.me.git
+    branch: master
+
+#deploy:
+  - type: sftp
+    host: 139.199.118.84
+    user: root
+    pass: Snake19770413
+    remotePath: /var/www/html/
+    #port: [port]
+    #privateKey: [path/to/privateKey]
+    #passphrase: [passphrase]
+    #agent: [path/to/agent/socket]
