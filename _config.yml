@@ -89,8 +89,10 @@ deploy:
   - type: sftp
     host: 139.199.118.84
     user: root
+    pass: 
     remotePath: /var/www/html/
-    #port: [port]
-    #privateKey: [path/to/privateKey]
-    #passphrase: [passphrase]
-    #agent: [path/to/agent/socket]
+    #port: 22
+    privateKey: /Users/zhenghua/.ssh/id_rsa
+    passphrase: 
+    #agent: process.env.SSH_AUTH_SOCK
+
