@@ -89,7 +89,6 @@ deploy:
   - type: sftp
     host: 139.199.118.84
     user: root
-    pass: Snake19770413
     remotePath: /var/www/html/
     #port: [port]
     #privateKey: [path/to/privateKey]
