@@ -92,8 +92,8 @@ deploy:
     #pass: 
     remotePath: /var/www/html/
     #port: 22
-    #privateKey: /Users/zhenghua/.ssh/id_rsa
-    privateKey: D:\github\win_laptop
-    #passphrase: 
+    privateKey: /Users/zhenghua/.ssh/id_rsa
+    #privateKey: D:\github\win_laptop
+    passphrase: 
     #agent: process.env.SSH_AUTH_SOCK
 
